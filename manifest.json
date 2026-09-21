@@ -1,0 +1,29 @@
+{
+  "name": "Encruzo",
+  "short_name": "Encruzo",
+  "description": "Plataforma para quem atende, cuida e orienta: agendamento, atendimentos e evolução",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#007aff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "medical"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "./",
+  "prefer_related_applications": false
+}
